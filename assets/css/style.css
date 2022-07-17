@@ -91,3 +91,11 @@ body{
 a:link, a:visited, a:active {
     text-decoration:none;
 }
+
+
+/****************************/
+.carousel-image{
+    height: 12rem;
+    width: auto;
+    display: block;
+}
